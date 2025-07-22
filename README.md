@@ -1,61 +1,55 @@
-# LOTS Protocol – Decentralized Participation System DCO (Digital call option)
+**LOTS Protocol – Decentralized Reiki & Energy Cycle
+**
+⚠️ Disclaimer: This repository only contains documentation files. The full source code is not published for security and audit purposes. Smart contracts are verified on BscScan and use Chainlink VRF for transparent automation.
 
-> ⚠️ Disclaimer: This repository only contains documentation files. The full source code is not published for security and audit purposes. The smart contracts have been verified on BscScan and follow Chainlink VRF randomness standards.
+🌐 What is LOTS?
+LOTS is a decentralized wellness protocol on BNB Smart Chain (BSC). It merges remote Reiki sessions with blockchain-powered symbolic energy blessings. After booking a Reiki session, each participant is automatically and freely connected to the universal blessing cycle. Blessings (delivered as USDT via smart contracts) are distributed transparently as symbolic energy gifts — not as financial promises.
 
----
+LOTS does not constitute gambling, lottery, investment, or any speculative financial activity.
 
-## 🌐 What is LOTS?
-
-LOTS is a decentralized participation protocol built on **BNB Smart Chain (BSC)**. It facilitates automatic, transparent, and non-custodial token distributions based on verifiable randomness. It does **not constitute gambling, lottery, or investment activity**.
-
----
-
-## 📁 Repository Structure
-
-```
+📁 Repository Structure
+bash
+Copiar
+Editar
 lots-dapp/
 ├── frontend/
-│   └── FrontEnd.pdf              # Documentation of the frontend logic
+│   └── FrontEnd.pdf              # User experience & interface documentation
 ├── backend/
-│   └── Backend.pdf               # Backend architecture and admin routes
+│   └── Backend.pdf               # Backend processes & infrastructure overview
 ├── contracts/
-│   └── LotsCycleManager.pdf      # Solidity contract architecture and events
-```
+│   └── LotsCycleManager.pdf      # Solidity contracts & events documentation
+🔒 Legal & Compliance
+Participation is voluntary and included automatically after Reiki session purchase.
 
----
+Distributed blessings are symbolic gifts, not financial returns.
 
-## 🔒 Legal & Compliance
+No fiat is processed. No user data is collected. No custodial risks.
 
-- LOTS enforces geoblocking and restricts access from sanctioned jurisdictions.
-- No fiat is processed. No user data is collected.
-- Interactions are voluntary, and all logic is enforced on-chain.
-- Chainlink VRF is used for deterministic randomness.
+No KYC, no registration. Full interaction via blockchain wallet.
 
----
+Chainlink VRF ensures transparent, verifiable automation.
 
-## 🔗 Useful Links
+🔗 Useful Links
+🌍 Official dApp: https://lots-dapp.com
 
-- 🌍 Official dApp: [https://lots-dapp.com](https://lots-dapp.com)
-- 🔍 BscScan Verified Contracts: 0xA40aC50999c8cc5f01808EEb24FAB295055A51Ae, 0x15A148a5eCB563829c1b4a94fE07397ed14d3caB
-- 📄 Whitepaper: [https://lots-dapp.com/legal/WhitePaper.pdf](https://lots-dapp.com/legal/WhitePaper.pdf)
-- 📊 DappRadar: [https://dappradar.com/dapp/lots-dapp](https://dappradar.com/dapp/lots-dapp)
-- 🧠 GitHub Docs: You’re here.
+🔍 BscScan Verified Contracts:
+0xA40aC50999c8cc5f01808EEb24FAB295055A51Ae
+0x15A148a5eCB563829c1b4a94fE07397ed14d3caB
 
----
+📄 Whitepaper: https://lots-dapp.com/legal/WhitePaper.pdf
 
-## ❓ FAQ
+📊 DappRadar: https://dappradar.com/dapp/lots-dapp
 
-**Q: Why is the code not open source?**  
-A: Due to the sensitive logic behind randomness, token burning, and payout distribution, the full source is only accessible for audits and reviewers under NDA.
+🧘 Learn more: https://lots-dapp.com/how-it-works
 
-**Q: How do I interact with the protocol?**  
-A: Connect your wallet at [https://lots-dapp.com](https://lots-dapp.com) and follow the on-screen flow. No KYC, no registration.
+❓ FAQ
+Q: Why is the source code not open?
+A: To protect session management logic, randomness processes, and anti-abuse mechanisms, the source code is disclosed only to auditors and partners under NDA.
 
----
+Q: How do I participate?
+A: Connect your wallet at https://lots-dapp.com, book your Reiki session (5 USDT), and you will be automatically included in the blessing cycle — without extra steps or fees.
 
-## 👤 Contact
+👤 Contact
+For audits, partnerships, or inquiries:
+📧 lotsmlinv@proton.me
 
-For audits, integrations or questions, reach us at:  
-📧 `lotsmlinv@proton.me`
-
----
