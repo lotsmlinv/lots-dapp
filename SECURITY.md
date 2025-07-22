@@ -1,60 +1,61 @@
-
 # SECURITY.md
 
-## Responsible Disclosure
+## 📢 Responsible Disclosure
 
-LOTS is a decentralized, immutable smart contract protocol. However, we welcome reports from ethical hackers and security researchers to help ensure the safety and integrity of the ecosystem.
+LOTS is a decentralized wellness protocol powered by immutable smart contracts. While blockchain logic is automated and non-custodial, we value collaboration with ethical hackers and security researchers to help protect users and ensure transparency.
 
-If you discover any potential vulnerabilities affecting:
+If you discover potential vulnerabilities in:
 
-- The frontend or backend infrastructure
-- Smart contract logic
-- Signature or nonce validation
-- Interaction flows or APIs
+- Frontend or backend infrastructure
+- Smart contract logic or on-chain flows
+- Signature handling, nonce validation, or APIs
 
-Please report them responsibly to: **lotsmlinv@proton.me**
+Please report them responsibly to:  
+📧 **lotsmlinv@proton.me**
 
 ---
 
-## Reporting Guidelines
+## 🛠️ Reporting Guidelines
 
-To help us assess and respond to your report effectively, please include:
+To help us address your report efficiently, please include:
 
-1. A detailed description of the issue
+1. Clear description of the issue
 2. Steps to reproduce the vulnerability
-3. Potential impact and affected components
-4. Screenshots, code snippets, or proof-of-concept (if applicable)
+3. Affected components and potential impact
+4. Supporting material (screenshots, PoC, code snippets)
 
 ---
 
-## Rules of Engagement
+## ⚖️ Rules of Engagement
 
-To be eligible for recognition, you must:
+- Do **not** disrupt or harm active sessions or users.
+- Do **not** access, modify, or delete user data.
+- Avoid DoS attacks, spam, or brute-force testing.
+- Comply with all local and international laws.
 
-- Avoid disrupting or harming the protocol or users
-- Refrain from accessing or modifying user data
-- Not perform DoS, spam, or brute-force attacks
-- Follow all applicable local laws
-
----
-
-## Scope
-
-In-Scope Targets:
-
-- `https://lots-dapp.com` frontend
-- LOTS smart contracts (as verified on BscScan)
-- LOTS backend endpoints (documented via GitHub)
-
-Out of Scope:
-
-- Third-party tools or wallets not maintained by LOTS
-- Any bugs without direct security impact
+We recognize good-faith reports submitted under these principles.
 
 ---
 
-## Legal
+## 🎯 Scope
 
-By submitting a report, you agree not to publicly disclose the issue until it has been addressed. We do not pursue legal action against good-faith security researchers who comply with these principles.
+**In-Scope Targets:**
 
-LOTS – Immutable by Design. Governed by Code. Not by Promises.
+- Official dApp: [`https://lots-dapp.com`](https://lots-dapp.com)
+- LOTS smart contracts (verified on BscScan)
+- Backend APIs documented in this repository
+
+**Out of Scope:**
+
+- Third-party wallets or providers not controlled by LOTS
+- Bugs without direct security relevance
+
+---
+
+## ⚖️ Legal
+
+By submitting a report, you agree to refrain from public disclosure until we resolve the issue. We commit not to pursue legal action against researchers who follow these guidelines in good faith.
+
+---
+
+### 🛡️ LOTS – Decentralized. Transparent. Governed by Code.
