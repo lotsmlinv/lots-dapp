@@ -1,87 +1,63 @@
+###LOTS – LEGAL DISCLAIMER 
+Effective Date: July 2025 
+Version: 3.1 
+Jurisdiction-Neutral Statement 
+###1. Nature of LOTS 
+LOTS is a decentralized wellness platform offering remote Reiki sessions as a form of spiritual and energetic 
+well-being. The primary purpose of LOTS is to provide clients with personalized  energy alignment services performed 
+remotely by certified practitioners. 
+Additionally, every Reiki session purchased grants clients automatic, free complimentary participation in LOTS 
+blockchain-recorded energy cycle. This cycle symbolizes the energetic flow initiated by each session. 
+At the conclusion of each cycle, certain participants may be randomly selected via blockchain smart contract logic 
+(Chainlink VRF) to receive USDT distributions. These distributions represent a symbolic energy return mechanism, 
+not a reward, prize, or financial product. 
+LOTS does not operate as a lottery, gambling service, investment platform, or financial advisor. 
+###2. No Custody – Automated Energy Redistribution 
+Payments for Reiki sessions are processed directly via self-custodied blockchain wallets. 
+LOTS does not custody client funds, nor manually manage balances. 
+Any USDT distributions associated with the energy cycle are processed automatically via immutable smart contract 
+logic. 
+There is no manual override, human intervention, or discretionary control over the distribution process. 
+Distributions serve as an automated form of energetic redistribution, reflecting the symbolic return of abundance 
+within the cycle. They do not constitute rewards, promises, or guaranteed returns. 
+###3. Geographic and Legal Considerations 
+● Reiki services are available globally, subject to local regulations regarding spiritual services. 
+● Participation in the blockchain-based cycle is restricted to individuals aged 18 years or older, or the age of 
+majority in their jurisdiction. 
+● LOTS reserves the right to restrict access from jurisdictions under international sanctions or where 
+blockchain-based interactions are prohibited. 
+You are solely responsible for ensuring compliance with your local regulations. 
+###4. User Responsibility and Acceptance of Risk 
+By interacting with LOTS, you confirm that: 
+● You are of legal age to participate in the blockchain component. 
+● You understand that USDT distributions, if received, are the outcome of automated smart contract 
+processes, without human discretion. 
+● You acknowledge that Reiki services are spiritual in nature, and LOTS makes no medical claims or financial 
+promises. 
+● You assume full responsibility for your actions and wallet interactions. 
+● You are responsible for reporting and paying any applicable taxes related to digital assets received. 
+###5. Public Blockchain Transparency 
+Transactions and wallet addresses involved in LOTS energy cycle are publicly visible on blockchain explorers. 
+This is inherent to blockchain technology and does not constitute personal identification under data protection 
+regulations. 
+LOTS itself does not collect, store, or associate personal data. 
+###6. Limitation of Liability 
+LOTS, its developers, practitioners, infrastructure providers, and contributors: 
+● Make no guarantees regarding outcomes of Reiki sessions or distributions. 
+● Disclaim all liability for loss, damage, or claims arising from participation. 
+● Are not responsible for individual results, tax compliance, or regulatory obligations in your jurisdiction. 
+Participation in both Reiki services and the blockchain energy cycle is at your sole risk. 
+###7. Governance and Protocol Autonomy 
+LOTS is governed entirely by decentralized smart contracts. No human entity exercises control over distributions, 
+selections, or outcomes. 
+Future community coordination may assist in non-critical protocol decisions without modifying the automated 
+processes. 
+###8. Acceptance Clause 
+By interacting with LOTS, making a Reiki session purchase, or connecting your wallet to participate in the energy cycle: 
+● You agree to this Legal Disclaimer and all associated policies. 
+● You acknowledge your voluntary participation and waive any claims of liability or compensation. 
+● You accept that your participation is governed by immutable code and not by human guarantees. 
+If you do not accept these terms, you must discontinue interaction immediately. 
 
-# LEGAL.md
-
-## Jurisdiction-Neutral Legal Disclaimer
-
-LOTS is a decentralized, immutable protocol deployed on public blockchain infrastructure. It is **not** operated by a company or intermediary, and does **not** offer financial products, investments, or gambling services.
-
-By accessing the LOTS smart contracts or interface, you accept the following legal terms:
-
----
-
-### 1. Non-Custodial Protocol
-
-- LOTS never takes custody of user funds.
-- All logic is enforced by smart contracts.
-- Token transfers and distributions are irreversible and governed by code.
-
----
-
-### 2. No Guarantees or Returns
-
-- There is no expectation of profits, earnings, or speculative returns.
-- LOTS is not a lottery, investment product, or game of chance.
-
----
-
-### 3. Geographic Access Restrictions
-
-Access is restricted for residents or persons located in jurisdictions including (but not limited to):
-
-> United States, China, Russia, Iran, North Korea, Venezuela, Turkey, Belarus, Syria, Afghanistan, Myanmar, Cuba, Libya, Gaza Strip, and others listed in the Whitepaper.
-
-Users accessing the protocol from these regions do so at their own legal risk and assume full responsibility.
-
----
-
-### 4. Privacy by Design
-
-LOTS:
-
-- Does **not** collect personal data (no emails, names, IPs, or tracking).
-- Does **not** use cookies or analytics.
-- Interacts only via pseudonymous blockchain wallets.
-- Respects GDPR and CCPA by default.
-
-All on-chain transactions are public and visible on blockchain explorers. This is inherent to blockchain and **not** data collection by LOTS.
-
----
-
-### 5. User Obligations
-
-By using LOTS, you confirm that:
-
-- You are over 18 or the legal age of majority.
-- You are **not** in a prohibited jurisdiction.
-- You are fully responsible for any taxes or legal obligations in your country.
-- You understand the risks of using autonomous smart contracts.
-
----
-
-### 6. Authorized Interfaces Only
-
-The only authorized frontend to interact with LOTS is:
-
-> https://lots-dapp.com
-
-Use of bots, scripts, or third-party forks is **prohibited**.
-
----
-
-### 7. Voluntary Participation & Liability Waiver
-
-By interacting with the protocol:
-
-- You waive all claims against developers, infrastructure providers, or contributors.
-- You acknowledge that participation is voluntary and irreversible.
-- You assume full responsibility for wallet actions.
-
----
-
-### 8. Arbitration & Dispute Resolution
-
-All disputes shall be resolved through **individual arbitration** in a neutral crypto-friendly jurisdiction such as **Cayman Islands, Panama, or Switzerland**. No class actions are permitted.
-
----
-
-LOTS – Immutable by Design. Governed by Code. Not by Promises.
+###LOTS – Spiritual Wellness First. Energy Redistributed. Blockchain Governed. 
+Autonomous by Code. 
